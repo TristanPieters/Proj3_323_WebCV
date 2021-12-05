@@ -21,7 +21,8 @@
     "react-spotify-api": "^3.0.0",
     "react-spring": "^8.0.27",
     "react-tsparticles": "^1.18.2",
-    "react-twitter-widgets": "^1.9.5"
+    "react-twitter-widgets": "^1.9.5",
+    "node": "^v16.13.1"
   },
   "scripts": {
     "start": "react-scripts start",
